@@ -1,0 +1,1 @@
+This project consists of a to-do list, in which you can add, delete, and mark the tasks you have already done or want to do, it is programmed in JavaScript and is intended to be a web application, but being responsive it can be used from any smartphone.
